@@ -1,0 +1,14 @@
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\bin\Debug\net6.0\Shystnadsytkovi.exe
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\bin\Debug\net6.0\Shystnadsytkovi.deps.json
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\bin\Debug\net6.0\Shystnadsytkovi.runtimeconfig.json
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\bin\Debug\net6.0\Shystnadsytkovi.dll
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\bin\Debug\net6.0\Shystnadsytkovi.pdb
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.AssemblyInfoInputs.cache
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.AssemblyInfo.cs
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.csproj.CoreCompileInputs.cache
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.dll
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\refint\Shystnadsytkovi.dll
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.pdb
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\Shystnadsytkovi.genruntimeconfig.cache
+C:\VS Project\LabaArchComp3\Shystnadsytkovi\obj\Debug\net6.0\ref\Shystnadsytkovi.dll

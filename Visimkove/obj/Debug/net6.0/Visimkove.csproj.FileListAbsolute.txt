@@ -1,0 +1,14 @@
+C:\VS Project\LabaArchComp3\Visimkove\bin\Debug\net6.0\Visimkove.exe
+C:\VS Project\LabaArchComp3\Visimkove\bin\Debug\net6.0\Visimkove.deps.json
+C:\VS Project\LabaArchComp3\Visimkove\bin\Debug\net6.0\Visimkove.runtimeconfig.json
+C:\VS Project\LabaArchComp3\Visimkove\bin\Debug\net6.0\Visimkove.dll
+C:\VS Project\LabaArchComp3\Visimkove\bin\Debug\net6.0\Visimkove.pdb
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.AssemblyInfoInputs.cache
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.AssemblyInfo.cs
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.csproj.CoreCompileInputs.cache
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.dll
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\refint\Visimkove.dll
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.pdb
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\Visimkove.genruntimeconfig.cache
+C:\VS Project\LabaArchComp3\Visimkove\obj\Debug\net6.0\ref\Visimkove.dll

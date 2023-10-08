@@ -1,0 +1,14 @@
+C:\VS Project\LabaArchComp3\Dviykove\bin\Debug\net6.0\Dviykove.exe
+C:\VS Project\LabaArchComp3\Dviykove\bin\Debug\net6.0\Dviykove.deps.json
+C:\VS Project\LabaArchComp3\Dviykove\bin\Debug\net6.0\Dviykove.runtimeconfig.json
+C:\VS Project\LabaArchComp3\Dviykove\bin\Debug\net6.0\Dviykove.dll
+C:\VS Project\LabaArchComp3\Dviykove\bin\Debug\net6.0\Dviykove.pdb
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.AssemblyInfoInputs.cache
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.AssemblyInfo.cs
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.csproj.CoreCompileInputs.cache
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.dll
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\refint\Dviykove.dll
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.pdb
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\Dviykove.genruntimeconfig.cache
+C:\VS Project\LabaArchComp3\Dviykove\obj\Debug\net6.0\ref\Dviykove.dll
